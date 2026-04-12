@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhijeet-win
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Mern Stack
+- 🌱 I’m currently learning Full stack
 - 📫 How to reach me sergeantabhi@gmail.com
 - ✨ I'm 20,male.
 
