@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Abhijeet-win
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Full stack
-- 📫 How to reach me sergeantabhi@gmail.com
-- ✨ I'm 20,male.
-
-<!---
-Abhijeet-win/Abhijeet-win is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+user: Abhijeet.win 
+location: India
+status:
+  - education: persuing bachlors in CS 
+  - Current_Focus: [full stack,Linux]
+languages:
+    primary: [JavaScript (ES6+), Java, C]
+    web: [HTML5, CSS3, Modern DOM API]
+  devops_tools:
+    scripting: [Bash/Shell, Node.js Automation]
+    version_control: [Git, GitHub Actions (CI/CD)]
+    environment: [Linux CLI, Ubuntu/Debian Management]
+current_projects:
+  - Abhyaskrama: "Centralized Academic Resource Hub (Live on GH-Pages)"
+interests: 
+  - Learning: [Mastering JS & Node.js Backend logic]
+  - Travel: [Riding motorcyles,exploring new places]
+motto: "Compiling a better version of myself, one commit at a time."
