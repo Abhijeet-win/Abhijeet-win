@@ -1,4 +1,5 @@
-ser: Abhijeet.win 
+```yaml
+user: Abhijeet.win 
 location: India
 
 status:
